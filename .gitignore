@@ -1,3 +1,6 @@
-./vscode
+# Conifg vscode
+.vscode/
+
+
 AGENTS.md
 CLAUDE.md
