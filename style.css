@@ -272,12 +272,31 @@ body {
     line-height: 1.5;
 }
 
-.attribution { 
-    font-size: 0.6875rem; 
-    text-align: center; 
+.attribution{
+    height: 50px;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 500;
+    margin-top: 20px;
+    color: black;
+    border-top: 1px solid hsl(0, 0%, 20%);
+    border-color: gray;
+    padding: 2rem 0 0 0;
+    letter-spacing: 0.2rem;
+    cursor: default;
+    
+}    
+.attribution a{
+    color: rgb(233, 4, 4);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 800;
+    cursor: pointer;
 }
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
-}
+    
+
+
+
+
 
 
